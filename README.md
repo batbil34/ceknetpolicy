@@ -16,4 +16,4 @@ Kullanıcı verileri üçüncü taraflarla paylaşılmaz. User data is not share
 
 Bu politika gelecekte değişirse, güncellemeler bu sayfada yayınlanacaktır. If this policy changes in the future, updates will be published on this page.
 
-Herhangi bir sorunuz varsa bizimle şu adresten iletişime geçebilirsiniz: com.batu.ceknet@gmail.com If you have any questions, you can contact us at: com.batu.ceknet@gmail.com
+Herhangi bir sorunuz varsa bizimle şu adresten iletişime geçebilirsiniz: yagli-kraken6i@icloud.com If you have any questions, you can contact us at: yagli-kraken6i@icloud.com
